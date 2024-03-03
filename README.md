@@ -1,2 +1,2 @@
 # ATS-Scanner
-<a href="https://atsscanner.streamlit.app/">Try it out</a>
+<a href="https://smartatsscanner.streamlit.app/">Try it out</a>
